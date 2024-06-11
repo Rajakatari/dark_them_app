@@ -1,0 +1,20 @@
+.layout {
+  display: flex;
+  background-color: orange;
+}
+
+.layout a {
+  margin-right: 10px;
+}
+.mode-inner-card {
+  width: 40px;
+  height: 20px;
+  border-radius: 25px;
+  border: 1px solid grey;
+}
+.mode-switcher {
+  width: 20px;
+  height: 20px;
+  border-radius: 25px;
+  box-shadow: 0px 4px 8px 0px grey;
+}
